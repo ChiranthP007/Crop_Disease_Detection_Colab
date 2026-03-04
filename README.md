@@ -101,7 +101,7 @@ All models are pre-trained on **ImageNet** and fine-tuned on the PlantVillage da
 ### Option 2 — Local Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/crop-disease-detection-msc.git
+git clone https://github.com/ChiranthP007/crop-disease-detection-msc.git
 cd crop-disease-detection-msc
 
 # Install dependencies
